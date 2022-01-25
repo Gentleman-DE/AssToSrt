@@ -8,3 +8,6 @@ Adds .srt track based on .ass track and outputs to a new folder named "Converted
 
 Convert2:
 Adds .srt track based on .ass track and replaces the existing file
+
+
+(Does not delete old track)
